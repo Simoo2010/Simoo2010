@@ -1,4 +1,13 @@
-steps:
+name: Update WakaTime Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every day at midnight
+  workflow_dispatch: # Lets you trigger it manually whenever you want
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
