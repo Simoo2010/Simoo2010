@@ -4,5 +4,5 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Simoo2010&theme=dark&hide_border=false)<br/>
 
-<!-- START_SECTION:waka-->
-<!-- END_SECTION:waka-->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
