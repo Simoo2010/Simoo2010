@@ -5,4 +5,14 @@
 ![](https://streak-stats.demolab.com/?user=Simoo2010&theme=dark&hide_border=false)<br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 29 mins
+
+Python       24 mins               █████████████████████░░░░   83.48 %
+Git Config   4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+```
+
 <!--END_SECTION:waka-->
