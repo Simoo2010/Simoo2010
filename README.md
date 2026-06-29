@@ -3,3 +3,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Simoo2010&theme=dark&hide_border=false)<br/>
+
+<!-- START_SECTION:waka-->
+<!-- END_SECTION:waka-->
